@@ -1,0 +1,1 @@
+include ':app', ':ksoap2-android-assembly-3.6.2-jar-with-dependencies'
